@@ -1,0 +1,265 @@
+[
+  {
+    "naam": "Diaz",
+    "stand": "1",
+    "locatie": "bovendek",
+    "info": "Diaz Brewing is een mini-brouwerij gevestigd in een bos in Baudour, België. Brouwer Daniel Diaz leerde de Belgische Shaika Alloway kennen toen hij hier als militair gevestigd was en ze runnen de micro-brouwerij gewoon met hun tweetjes. Er is geen taproom en de hoogwaardig craftbieren zijn enkel lokaal te verkrijgen of via internet. En dus nu ook op dit festival. Enjoy.",
+    "link": "",
+    "foto": "assets/images/brouwers/Diaz.png"
+  },
+  {
+    "naam": "Hedonis",
+    "stand": "2",
+    "locatie": "bovendek",
+    "info": "Vol goesting, passie en enthousiasme werd Hedonis Ambachtsbier in 2015 opgericht. De naam Hedonis verwijst naar het Hedonisme, de filosofische leer waarbij streven naar genot het hoogste goed is. En daar zijn we het weer volledig mee eens. De namen van bieren als Middenvakrijder en Excuse me while I kiss my stout, zal je deze brouwerij niet snel vergeten.",
+    "link": "",
+    "foto": "assets/images/brouwers/Hedonis.png"
+  },
+  {
+    "naam": "Hoppug",
+    "stand": "3",
+    "locatie": "bovendek",
+    "info": "Twee jonge hobby-brouwers zetten in 2021 de stap naar een eigen brouwerij in Geel, en met succes! Van barrel-aged, over tripels, tot milk stouts en verse hazy ipa’s, tot zelfs ciders, alles met respect voor de natuur.",
+    "link": "",
+    "foto": "assets/images/brouwers/Hoppug.png"
+  },
+  {
+    "naam": "Kerkom",
+    "stand": "4",
+    "locatie": "bovendek",
+    "info": "Een echte Limburgse klassieker! Kerkom is vooral bekend van de Bink-bieren maar ook van het geweldige Winterkoninkske (onze favo-classic!) en Adelardus. De brouwerij is recent overgenomen door Brouwerij De Ranke uit Dottignies (bekend van oa. XX Bitter en Guldenberg - en vorig jaar al op ons festival). De Ranke is een gelijkgestemde ziel die de smaak van en sfeer rond de Kerkom-bieren zeker trouw zal blijven.",
+    "link": "",
+    "foto": "assets/images/brouwers/Kerkom.png"
+  },
+  {
+    "naam": "d'Oude Maalderij",
+    "stand": "5",
+    "locatie": "bovendek",
+    "info": "Jef Pirens was er vorig jaar al bij en hij viel direct op met zijn eigen tapinstallatie én natuurlijk met zijn geweldige, echte bieren. Jef, een West-Vlaming met een mening, welkom terug in het mooie Limburg! Hij beloofde speciaal voor deze festivaleditie iets unieks te tappen. Toch eens langslopen straks.",
+    "link": "",
+    "foto": "assets/images/brouwers/d'Oude Maalderij.png"
+  },
+  {
+    "naam": "Van Dijck",
+    "stand": "6",
+    "locatie": "bovendek",
+    "info": "Uit het hoge Noorden (van Limburg) komt Brouwerij Van Dijck. Ze staan vooral bekend om hun bieren met de naam Slijkvisser, maar hebben ondertussen al enkele mooie specials. Maar wat is een slijkvisser nu eigenlijk? Wanneer iemand elke dag gaat vissen, maar nooit iets vangt. Dat is het lot van de Slijkvisser. Wees geen slijkvisser op ons festival en zorg dat je beet hebt!",
+    "link": "",
+    "foto": "assets/images/brouwers/Van Dijck.png"
+  },
+  {
+    "naam": "Les Intenables",
+    "stand": "7",
+    "locatie": "bovendek",
+    "info": "Uit Frankrijk komt niet alleen wijn, maar ook gewoon lekker bier. Echt waar. Les Intenables is een bende jonge en hippe brouwers uit Strasbourg. Bosjes munt, sinaasappelschil, zelf geschilde gember en fruit dat ze soms met de hand plukken: het zit allemaal in hun bieren. Ze zijn ook super ecologisch bezig. Daar kunnen we maar 1 ding op zeggen: magnifique!",
+    "link": "",
+    "foto": "assets/images/brouwers/Les Intenables.png"
+  },
+  {
+    "naam": "BramBrass",
+    "stand": "8",
+    "locatie": "bovendek",
+    "info": "BramBrass is de gypsy brewery van Bram Neudt. Met veel hulp van zijn vrienden brengt hij een mix van innovatieve bieren die je versteld zullen doen staan!",
+    "link": "",
+    "foto": "assets/images/brouwers/BramBrass.png"
+  },
+  {
+    "naam": "Puffin Brewery",
+    "stand": "9",
+    "locatie": "bovendek",
+    "info": "Puffin Brewery wil het beste van België vermengen met de rijke natuur en cultuur van IJsland. Deze twee culturen proef en beleef je in de bieren want de brouwers verwerken graag IJslandse elementen in elk bier. Gelukkig geen rotte Groenlandse haai (of dat hopen we toch niet), maar wie eens op reis wil naar Ijsland kan dat in Zolder. Btw: puffin is een papegaaiduiker, de populairste vogel en mascotte van IJsland.",
+    "link": "",
+    "foto": "assets/images/brouwers/Puffin Brewery.png"
+  },
+  {
+    "naam": "Galea",
+    "stand": "10",
+    "locatie": "compressorenhal",
+    "info": "Galea Craft Beers uit Brasschaat brouwt innoverende bieren. Naast hun vaste gamma, lanceren ze regelmatig limited editions in verschillende stijlen. Ze wonnen meerdere gouden medailles op de recente Beerawards, waaronder Brouwerij van het jaar! Tip voor de bob in je gezelschap: Galea heeft een pareltje van een alcoholvrije stout bij.",
+    "link": "",
+    "foto": "assets/images/brouwers/Galea.png"
+  },
+  {
+    "naam": "Dochter van de Korenaar (ZA)",
+    "stand": "11",
+    "locatie": "compressorenhal",
+    "info": "De Dochter van de Korenaar is een brouwerij die opereert op de grens. Letterlijk, want de brouwerij staat in het Belgische Baarle-Hertog, een exclave op een steenworp van de Nederlandse grens. Eigenaar en brouwer Ronald Mengerink zoekt de grenzen letterlijk en figuurlijk op. Hij vaart zijn eigen koers en laat zich daar door niets of niemand vanaf brengen. De bieren zijn net zo eigenzinnig als de brouwer zelf! Je kan hem aan het woord horen tijdens 1 van de ",
+    "beertalks": " op het festival (zie programmaschema), zeker eens checken of daar nog plaats is.",
+    "link": "",
+    "foto": "assets/images/brouwers/Dochter van de Korenaar.png"
+  },
+  {
+    "naam": "Zythologist",
+    "stand": "12",
+    "locatie": "compressorenhal",
+    "info": "Excentrieke bieren en Hawaiiaanse hemdjes. Dat is de winnende combinatie van Zythologiste. Uitgerust met hun kleurrijke kleding, produceren onze twee crafters in hun micro-brouwerij dicht bij Charleroi, moderne bieren geïnspireerd op hun vele reizen. ",
+    "Belgische knowhow geïnspireerd door buitenlandse smaken": ".",
+    "link": "",
+    "foto": "assets/images/brouwers/Zythologist.png"
+  },
+  {
+    "naam": "Moersleutel",
+    "stand": "13",
+    "locatie": "compressorenhal",
+    "info": "Brouwerij De Moersleutel is 1 van de topbrouwerijen uit Nederland. Het is een echte familiebrouwerij uit Alkmaar. De brouwerij is opgericht in 2015 en wordt gerund door de vier broers Pim, Tom, Rob en Max. Het zijn trouwens echte beer engineers, ze bouwen werkelijk machines voor andere craft brouwerijen. Geniet van het leven is hun levensmotto. Awel, ja. Schol!",
+    "link": "",
+    "foto": "assets/images/brouwers/Moersleutel.png"
+  },
+  {
+    "naam": "De Coureur",
+    "stand": "14",
+    "locatie": "compressorenhal",
+    "info": "Buurtbrouwerij de Coureur uit Kessel-Lo (Leuven) geeft iedereen een 'Life is Brewtiful'-moment. Bart en Ine brouwen er innovatief bier op kleine schaal dat enkel ter plaatse gedronken kan worden in de taproom. Ze maken 1 uitzondering: speciaal voor The Beer Experience zakken ze naar Zolder af. Profiteer ervan!",
+    "link": "",
+    "foto": "assets/images/brouwers/De Coureur.png"
+  },
+  {
+    "naam": "Basqueland (Hops 'n More)",
+    "stand": "15",
+    "locatie": "compressorenhal",
+    "info": "Deze Baskische brouwerij vermengt Amerikaanse brouwtradities met Spaanse én Europese knowhow om steeds originele recepten te ontwikkelen. Niet verwonderlijk, want Basqueland is opgericht door drie Amerikanen in San Sebastian. Volgens sommigen 1 van de beste IPA-brouwerijen van Europa. Dat verdient zeker een testje straks.",
+    "link": "",
+    "foto": "assets/images/brouwers/Basqueland.png"
+  },
+  {
+    "naam": "Didko",
+    "stand": "16",
+    "locatie": "compressorenham",
+    "info": "Onze speciale gast! Een Oekraïense vluchteling uit Kiev die vanuit Nederland zijn prachtige bieren opnieuw wil verspreiden.",
+    "link": "",
+    "foto": "assets/images/brouwers/Didko.png"
+  },
+  {
+    "naam": "Kromme Haring",
+    "stand": "17",
+    "locatie": "compressorenhal",
+    "info": "Uit Utrecht komen deze Nederlandse toppers. De eigenaars hebben een voorliefde voor het gebruik van Engelse mouten en Amerikaanse hopsoorten. Bovenal hechten ze belang aan de controle van het vergistingsproces en maken zij gebruik van minder bekende en gebruikte (wilde) gistsoorten.",
+    "link": "",
+    "foto": "assets/images/brouwers/Kromme Haring.png"
+  },
+  {
+    "naam": "Oso",
+    "stand": "18",
+    "locatie": "balzaal",
+    "info": "Een brouwerij in Madrid die verse en moderne ambachtelijke bieren brouwt. De oprichters David en Patrick ontmoetten elkaar meer dan tien jaar geleden tijdens hun studie in Madrid. Ze serveerden hun eerste bier in 2018 en sindsdien hebben ze meer dan 100.000 pinten bier gebrouwen en verkocht aan mensen in heel Europa.",
+    "link": "",
+    "foto": "assets/images/brouwers/Oso.png"
+  },
+  {
+    "naam": "Hophemel",
+    "stand": "19",
+    "locatie": "balzaal",
+    "info": "De Hophemel is een Limburgse craft-brouwerij die sinds eind 2020 de bierwereld bestormt door elke maand een compleet nieuw bier op de markt te brengen. Wat ooit begon als een kleine, snel evoluerende huisbrouwerij die de lat hoog legt en het experiment niet schuwt, is inmiddels uitgegroeid tot een huurbrouwerij met een jaarlijks volume rond de 80 hectoliter en een leuke taproom in de stationsbuurt van Hasselt. Het bezoeken waard, maar nu eerst hun stand opzoeken! ",
+    "link": "",
+    "foto": "assets/images/brouwers/Hophemel.png"
+  },
+  {
+    "naam": "Slaapmutske",
+    "stand": "20",
+    "locatie": "balzaal",
+    "info": "Het walhalla voor wie glutenvrij moet eten en drinken! Slaapmutske staat bekend om zijn groot gamma biologische en glutenvrije bieren, met dank aan brouwer Dany De Smet. De brouwerij-ingenieur die al in 1992 samen met zijn echtgenote bier begon te brouwen.",
+    "link": "",
+    "foto": "assets/images/brouwers/Slaapmutske.png"
+  },
+  {
+    "naam": "Stroom",
+    "stand": "21",
+    "locatie": "balzaal",
+    "info": "Stroom heeft de voorbije weken alle Belgische pers gehaald met de EXPO ",
+    "Blik op kunst": " die in het Muzecafé te zien is tijdens het festival. Daar hangen de échte kunstwerken in real life die ook op de blikken bier van Stroom schitteren. De moeite om daar langs te gaan om de hele ",
+    "Experience": " van ons bierfestival te ervaren. Maar vergeet ook niet langs hun stand te passeren: dit Belgisch-Amerikaans duo maakt fijne bieren en hebben een nieuwe onafhankelijke brouwerij met taproom in Gent. Leuke mannen om een klapke mee te doen.",
+    "link": "",
+    "foto": "assets/images/brouwers/Stroom.png"
+  },
+  {
+    "naam": "De La Senne",
+    "stand": "22",
+    "locatie": "Balzaal",
+    "info": "Brasserie De La Senne stond mee aan de wieg van de ",
+    "nieuwe golf": " van craft bier in Brussel (en België). Zij produceren bittere bieren vanaf hun prilste bestaan – en ze bestaan om bittere bieren te produceren! Ze behoren tot het selecte kliekje van brouwerijen die vorig jaar ook op ons festival stonden. Omdat we fan zijn!",
+    "link": "",
+    "foto": "assets/images/brouwers/De La Senne.png"
+  },
+  {
+    "naam": "Artevelde / Haeseveld",
+    "stand": "23",
+    "locatie": "balzaal",
+    "info": "In het hartje van Gent, recht tegenover het stadhuis, opende brouwerij Huyghe (bekend van oa. Delirium, Averbode en Mongozo) de Gentse stadsbrouwerij Artevelde. En hop! De arteveldestad is een brouwerij rijker. Waarom Artevelde? Wel: Jacob van Artevelde (1290-1345) was lakenkoopman, volksleider, staatsman en dronk graag een biertje uit een pul. Vrie wijs.",
+    "link": "",
+    "foto": "assets/images/brouwers/Artevelde.png"
+  },
+  {
+    "naam": "St. Bernardus",
+    "stand": "24",
+    "locatie": "balzaal",
+    "info": "1 van de grootste en bekendste namen op The Beer Experience komt uit het uiterste puntje van West-Vlaanderen. Te midden van ",
+    "Le Plat Pays": ", in het hart van de West-Vlaamse hoppestreek brouwt Sint-Bernardus bier dat tot de verbeelding spreekt. Vooral hun Abt is een ware klassieker in de Belgische bierwereld. Nog nooit gedronken? Zeker doen.",
+    "link": "",
+    "foto": "assets/images/brouwers/St.Bernardus.png"
+  },
+  {
+    "naam": "Gistgeest",
+    "stand": "25",
+    "locatie": "balzaal",
+    "info": "Een wijkbrouwerij zoals elke wijk er vroeger eentje had: dat is Gistgeest. Naast het Boelaerpark, in de kelder, brouwt brouwer Steven op 120 liter bieren en stijlen waar hij zelf fan van is. Kleinschalig en zonder poespas: hij doet het allemaal in zijn eentje: recepten verzinnen en brouwen en bottelen. Misschien heeft hij jouw gezelschap nu nodig?",
+    "link": "",
+    "foto": "assets/images/brouwers/Gistgeest.png"
+  },
+  {
+    "naam": "Lupulus",
+    "stand": "26",
+    "locatie": "balzaal",
+    "info": "Brouwerij Lupulus uit Gouvy, Henegouwen, is ook 1 van de meest gevestigde namen op ons festival. Het is een echte familiebrouwerij waar de vader en zijn 2 zonen aan het hoofd staan. De Latijnse naam voor hop is Humulus Lupulus, wat letterlijk ",
+    "kleine nederige wolf": " betekent.  Vandaar de naam, Lupulus, en het logo met de kleine wolf.",
+    "link": "",
+    "foto": "assets/images/brouwers/Lupulus.png"
+  },
+  {
+    "naam": "Arpus",
+    "stand": "27",
+    "locatie": "zwarte zaal",
+    "info": "Ārpus Brewing is een onafhankelijke microbrouwerij, opgericht in 2017 door ambachtelijke bierliefhebbers uit Letland. Ze brouwen waar ze van houden: sappige hop-forward ales, fruitig zuur bier en gewaagde imperial stouts. Ze zijn erg trots dat Ārpus Brewing op Untappd is verkozen tot #1 brouwerij in de Baltische staten.",
+    "link": "",
+    "foto": "assets/images/brouwers/Arpus.png"
+  },
+  {
+    "naam": "Folkingebrew",
+    "stand": "28",
+    "locatie": "zwarte zaal",
+    "info": "Folkingebrew zijn biernerds die brouwers zijn geworden, uit liefde voor bier. Ze drinken graag groot, gedurfd bier met diepgaande aroma's en smaken en dat is natuurlijk wat ze dan zelf brouwen ook. Folkinge verwijst naar de plek waar ze zijn begonnen met brouwen: in de Folkingestraat in Groningen. Brouwersmotto is: nooit stoppen met dromen en leren. Wij dromen alvast dat er snel een proefglaasje bier van Folkingebrew in onze handen terecht komt. Cheers.",
+    "link": "",
+    "foto": "assets/images/brouwers/Folkingbrew.png"
+  },
+  {
+    "naam": "Drap (ZO)",
+    "stand": "29",
+    "locatie": "zwarte zaal",
+    "info": "\nDe West-Vlaamse Emelie Maeyens is al enkele jaren actief in de bierwereld en werkt(e) in verschillende brouwerijen, waaronder Brouwerij 3 Fonteinen. Ze beweegt zich als een wervelwind door de wereld van bier, fruitwijn, co-fermenatatie-experimenten en nu ook wijn. Zin in een kort intermezzo? Begeef je dan naar de zwarte zaal. Enkel op zondag.",
+    "link": "",
+    "foto": "assets/images/brouwers/Drap.png"
+  },
+  {
+    "naam": "Bofkont",
+    "stand": "30",
+    "locatie": "zwarte zaal",
+    "info": "Een warme zomeravond aan zee en een oude kriek van Hanssens artisanaal uit de jaren 2000”. Sam Hellemans zijn eerste ervaring met lambiek én meteen de start van een lange ontdekkingstocht in de wereld van de lambiek. Nu verovert hij op zijn beurt de wereld. Letterlijk want op buitenlandse festivals staan er rijen wachtenden voor u om zijn creaties te proeven. Maar eerst Limburg én dan de rest van wereld! We maakten hem curator van de zwarte zaal aan het Muzecafé.",
+    "link": "",
+    "foto": "assets/images/brouwers/Bofkont.png"
+  },
+  {
+    "naam": "Pellicle / Vermeersch (ZO)",
+    "stand": "31",
+    "locatie": "zwarte zaal",
+    "info": "Matthieu Dupont heeft van biersteken als hobby, een tweede job gemaakt. Begonnen als barman kwam hij vaak in contact met bier en na experimenten met wijn en cider begon hij met het mengen van zure bieren met andere zure bieren of fruit. Sam van Bofkont is onze curator van de zwarte zaal naast het Muzecafé en bracht Matthieu met veel enthousiasme mee. Unieke zaal voor mensen die eens wat anders willen dan de gewone bieren. Zeker uitchecken, enkel op zondag.",
+    "link": "",
+    "foto": "assets/images/brouwers/PellicleVermeersch.png"
+  },
+  {
+    "naam": "Uncharted",
+    "stand": "32",
+    "locatie": "",
+    "info": "",
+    "link": "",
+    "foto": "assets/images/brouwers/Uncharted.png"
+  }
+]
