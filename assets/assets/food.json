@@ -1,0 +1,27 @@
+[
+  {
+    "naam": "Bierrestaurant De Gebrande Winning",
+    "locatie": "bovendek",
+    "foto": "assets/images/food/deGebrandeWinning.png"
+  },
+  {
+    "naam": "Cor e Leone",
+    "locatie": "terras",
+    "foto": "assets/images/food/coreleone.jpeg"
+  },
+  {
+    "naam": "Chapter 10",
+    "locatie": "terras",
+    "foto": "assets/images/food/Chapter10.png"
+  },
+  {
+    "naam": "Smokey Food",
+    "locatie": "terras",
+    "foto": "assets/images/food/smokeyFood.webp"
+  },
+  {
+    "naam": "Frieten Eddy",
+    "locatie": "terras",
+    "foto": "assets/images/food/Eddy.png"
+  }
+]
