@@ -80,11 +80,18 @@
     "foto": "assets/images/brouwers/Galea.jpg"
   },
   {
-    "naam": "Dochter van de Korenaar (ZA)",
+    "naam": "Dochter van de Korenaar (Zaterdag)",
     "stand": "11",
     "locatie": "compressorenhal",
-    "info": "De Dochter van de Korenaar is een brouwerij die opereert op de grens. Letterlijk, want de brouwerij staat in het Belgische Baarle-Hertog, een exclave op een steenworp van de Nederlandse grens. Eigenaar en brouwer Ronald Mengerink zoekt de grenzen letterlijk en figuurlijk op. Hij vaart zijn eigen koers en laat zich daar door niets of niemand vanaf brengen. De bieren zijn net zo eigenzinnig als de brouwer zelf! Je kan hem aan het woord horen tijdens 1 van de ",
-    "beertalks": " op het festival (zie programmaschema), zeker eens checken of daar nog plaats is.",
+    "info": "De Dochter van de Korenaar is een brouwerij die opereert op de grens. Letterlijk, want de brouwerij staat in het Belgische Baarle-Hertog, een exclave op een steenworp van de Nederlandse grens. Eigenaar en brouwer Ronald Mengerink zoekt de grenzen letterlijk en figuurlijk op. Hij vaart zijn eigen koers en laat zich daar door niets of niemand vanaf brengen. De bieren zijn net zo eigenzinnig als de brouwer zelf! Je kan hem aan het woord horen tijdens 1 van de “beertalks” op het festival (zie programmaschema), zeker eens checken of daar nog plaats is.",
+    "link": "",
+    "foto": "assets/images/brouwers/Dochter van de Korenaar.png"
+  },
+  {
+    "naam": "Mederie (Zondag)",
+    "stand": "11",
+    "locatie": "compressorenhal",
+    "info": "Een beetje buiten de biercategorie is De Mederie, gestart in 2020 met het produceren van ambachtelijke mede of honingwijn. Dat is alcoholische drank die gemaakt wordt door honing en water te laten vergisten. Dus toch iets met vergisting te maken! Alle mede zijn barred-aged. Als je eens vreemd wil gaan, is dit je moment.",
     "link": "",
     "foto": "assets/images/brouwers/Dochter van de Korenaar.png"
   },
@@ -165,7 +172,7 @@
     "naam": "Stroom",
     "stand": "21",
     "locatie": "balzaal",
-    "info": "Stroom heeft de voorbije weken alle Belgische pers gehaald met de EXPO ",
+    "info": "Stroom heeft de voorbije weken alle Belgische pers gehaald met de EXPO “Blik op kunst” die in het Muzecafé te zien is tijdens het festival. Daar hangen de échte kunstwerken in real life die ook op de blikken bier van Stroom schitteren. De moeite om daar langs te gaan om de hele “Experience” van ons bierfestival te ervaren. Maar vergeet ook niet langs hun stand te passeren: dit Belgisch-Amerikaans duo maakt fijne bieren en hebben een nieuwe onafhankelijke brouwerij met taproom in Gent. Leuke mannen om een klapke mee te doen.",
     "Blik op kunst": " die in het Muzecafé te zien is tijdens het festival. Daar hangen de échte kunstwerken in real life die ook op de blikken bier van Stroom schitteren. De moeite om daar langs te gaan om de hele ",
     "Experience": " van ons bierfestival te ervaren. Maar vergeet ook niet langs hun stand te passeren: dit Belgisch-Amerikaans duo maakt fijne bieren en hebben een nieuwe onafhankelijke brouwerij met taproom in Gent. Leuke mannen om een klapke mee te doen.",
     "link": "",
@@ -175,7 +182,7 @@
     "naam": "De La Senne",
     "stand": "22",
     "locatie": "Balzaal",
-    "info": "Brasserie De La Senne stond mee aan de wieg van de ",
+    "info": "Brasserie De La Senne stond mee aan de wieg van de \"nieuwe golf\" van craft bier in Brussel (en België). Zij produceren bittere bieren vanaf hun prilste bestaan – en ze bestaan om bittere bieren te produceren! Ze behoren tot het selecte kliekje van brouwerijen die vorig jaar ook op ons festival stonden. Omdat we fan zijn!",
     "nieuwe golf": " van craft bier in Brussel (en België). Zij produceren bittere bieren vanaf hun prilste bestaan – en ze bestaan om bittere bieren te produceren! Ze behoren tot het selecte kliekje van brouwerijen die vorig jaar ook op ons festival stonden. Omdat we fan zijn!",
     "link": "",
     "foto": "assets/images/brouwers/De La Senne.jpg"
@@ -192,8 +199,7 @@
     "naam": "St. Bernardus",
     "stand": "24",
     "locatie": "balzaal",
-    "info": "1 van de grootste en bekendste namen op The Beer Experience komt uit het uiterste puntje van West-Vlaanderen. Te midden van ",
-    "Le Plat Pays": ", in het hart van de West-Vlaamse hoppestreek brouwt Sint-Bernardus bier dat tot de verbeelding spreekt. Vooral hun Abt is een ware klassieker in de Belgische bierwereld. Nog nooit gedronken? Zeker doen.",
+    "info": "1 van de grootste en bekendste namen op The Beer Experience komt uit het uiterste puntje van West-Vlaanderen. Te midden van \"Le Plat Pays\", in het hart van de West-Vlaamse hoppestreek brouwt Sint-Bernardus bier dat tot de verbeelding spreekt. Vooral hun Abt is een ware klassieker in de Belgische bierwereld. Nog nooit gedronken? Zeker doen.",
     "link": "",
     "foto": "assets/images/brouwers/St Bernardus.jpg"
   },
@@ -209,8 +215,7 @@
     "naam": "Lupulus",
     "stand": "26",
     "locatie": "balzaal",
-    "info": "Brouwerij Lupulus uit Gouvy, Henegouwen, is ook 1 van de meest gevestigde namen op ons festival. Het is een echte familiebrouwerij waar de vader en zijn 2 zonen aan het hoofd staan. De Latijnse naam voor hop is Humulus Lupulus, wat letterlijk ",
-    "kleine nederige wolf": " betekent.  Vandaar de naam, Lupulus, en het logo met de kleine wolf.",
+    "info": "Brouwerij Lupulus uit Gouvy, Henegouwen, is ook 1 van de meest gevestigde namen op ons festival. Het is een echte familiebrouwerij waar de vader en zijn 2 zonen aan het hoofd staan. De Latijnse naam voor hop is Humulus Lupulus, wat letterlijk “kleine nederige wolf” betekent.  Vandaar de naam, Lupulus, en het logo met de kleine wolf.",
     "link": "",
     "foto": "assets/images/brouwers/Lupulus.jpg"
   },
@@ -231,7 +236,7 @@
     "foto": "assets/images/brouwers/Folkingebrew.jpg"
   },
   {
-    "naam": "Drap (ZO)",
+    "naam": "Drap (Zondag)",
     "stand": "29",
     "locatie": "zwarte zaal",
     "info": "\nDe West-Vlaamse Emelie Maeyens is al enkele jaren actief in de bierwereld en werkt(e) in verschillende brouwerijen, waaronder Brouwerij 3 Fonteinen. Ze beweegt zich als een wervelwind door de wereld van bier, fruitwijn, co-fermenatatie-experimenten en nu ook wijn. Zin in een kort intermezzo? Begeef je dan naar de zwarte zaal. Enkel op zondag.",
@@ -247,7 +252,15 @@
     "foto": "assets/images/brouwers/Bofkont.jpg"
   },
   {
-    "naam": "Pellicle / Vermeersch (ZO)",
+    "naam": "Vermeersch (Zaterdag)",
+    "stand": "31",
+    "locatie": "zwarte zaal",
+    "info": "Nog iemand die meegebracht is door onze curator Sam Hellemans van Bofkont. Vermeersch is een spontaan bierproject waarbij er geëxperimenteerd wordt met lambiek van verschillende brouwerijen om eigen prachtige creaties te maken. Topmateriaal voor beergeeks. Enkel op zaterdag.",
+    "link": "",
+    "foto": "assets/images/brouwers/Vermeersch.jpg"
+  },
+  {
+    "naam": "Pellicle (Zondag)",
     "stand": "31",
     "locatie": "zwarte zaal",
     "info": "Matthieu Dupont heeft van biersteken als hobby, een tweede job gemaakt. Begonnen als barman kwam hij vaak in contact met bier en na experimenten met wijn en cider begon hij met het mengen van zure bieren met andere zure bieren of fruit. Sam van Bofkont is onze curator van de zwarte zaal naast het Muzecafé en bracht Matthieu met veel enthousiasme mee. Unieke zaal voor mensen die eens wat anders willen dan de gewone bieren. Zeker uitchecken, enkel op zondag.",
