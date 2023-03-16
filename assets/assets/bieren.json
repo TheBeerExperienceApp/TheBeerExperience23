@@ -431,28 +431,28 @@
     "stijl": "IPA",
     "procent": "6%",
     "special": "/",
-    "brouwer": "Dochter van de Korenaar (ZA)"
+    "brouwer": "Dochter van de Korenaar (Zaterdag)"
   },
   {
     "naam": "Extase",
     "stijl": "DIPA",
     "procent": "8,5%",
     "special": "/",
-    "brouwer": "Dochter van de Korenaar (ZA)"
+    "brouwer": "Dochter van de Korenaar (Zaterdag)"
   },
   {
     "naam": "Finesse Pure Oak",
     "stijl": "BA Tripel",
     "procent": "8,5%",
     "special": "/",
-    "brouwer": "Dochter van de Korenaar (ZA)"
+    "brouwer": "Dochter van de Korenaar (Zaterdag)"
   },
   {
     "naam": "L'Ensemble di Montalcino",
     "stijl": "BA Barley Wine",
     "procent": "13%",
     "special": "/",
-    "brouwer": "Dochter van de Korenaar (ZA)"
+    "brouwer": "Dochter van de Korenaar (Zaterdag)"
   },
   {
     "naam": "Kamehameha",
@@ -1271,28 +1271,28 @@
     "stijl": "natuurwijn",
     "procent": "11%",
     "special": "/",
-    "brouwer": "Drap (ZO)"
+    "brouwer": "Drap (Zondag)"
   },
   {
     "naam": "Souvignier Gris 2021",
     "stijl": "natuurwijn",
     "procent": "10,5%",
     "special": "/",
-    "brouwer": "Drap (ZO)"
+    "brouwer": "Drap (Zondag)"
   },
   {
     "naam": "Gewurz Souvignier Gris 2022",
     "stijl": "natuurwijn",
     "procent": "11,5%",
     "special": "/",
-    "brouwer": "Drap (ZO)"
+    "brouwer": "Drap (Zondag)"
   },
   {
     "naam": "Muscaris 2021",
     "stijl": "natuurwijn",
     "procent": "11,5%",
     "special": "/",
-    "brouwer": "Drap (ZO)"
+    "brouwer": "Drap (Zondag)"
   },
   {
     "naam": "All the Way Down - Wings Brewing Company",
@@ -1376,63 +1376,63 @@
     "stijl": "Kweeper cider",
     "procent": "7%",
     "special": "/",
-    "brouwer": "Pellicle"
+    "brouwer": "Pellicle (Zondag)"
   },
   {
     "naam": "Momentum",
     "stijl": "Pruimencider",
     "procent": "7%",
     "special": "/",
-    "brouwer": "Pellicle"
+    "brouwer": "Pellicle (Zondag)"
   },
   {
     "naam": "Rosemary Fields Forever",
     "stijl": "Kriekenlambiek met Rozemarijn",
     "procent": "6%",
     "special": "/",
-    "brouwer": "Pellicle"
+    "brouwer": "Pellicle (Zondag)"
   },
   {
     "naam": "Mirabelge",
     "stijl": "Lambik met Mirabelle",
     "procent": "6%",
     "special": "/",
-    "brouwer": "Pellicle"
+    "brouwer": "Pellicle (Zondag)"
   },
   {
     "naam": "Marie 2022",
     "stijl": "Lambic Fruit",
     "procent": "6%",
     "special": "/",
-    "brouwer": "Vermeersch"
+    "brouwer": "Vermeersch (Zaterdag)"
   },
   {
     "naam": "Marleen 2022",
     "stijl": "Lambic Fruit",
     "procent": "6%",
     "special": "/",
-    "brouwer": "Vermeersch"
+    "brouwer": "Vermeersch (Zaterdag)"
   },
   {
     "naam": "Paul 2022",
     "stijl": "Lambic Geuze",
     "procent": "6%",
     "special": "/",
-    "brouwer": "Vermeersch"
+    "brouwer": "Vermeersch (Zaterdag)"
   },
   {
     "naam": "Lieve 2022",
     "stijl": "Lambic Fruit",
     "procent": "6%",
     "special": "/",
-    "brouwer": "Vermeersch"
+    "brouwer": "Vermeersch (Zaterdag)"
   },
   {
     "naam": "Jan 2022",
     "stijl": "Lambic Fruit",
     "procent": "6%",
     "special": "/",
-    "brouwer": "Vermeersch"
+    "brouwer": "Vermeersch (Zaterdag)"
   },
   {
     "naam": "Rrrrraise the Sails",
@@ -1467,34 +1467,34 @@
     "stijl": "Red Wine BA zwarte bessen mede",
     "procent": "15%",
     "special": "/",
-    "brouwer": "Mederie"
+    "brouwer": "Mederie (Zondag)"
   },
   {
     "naam": "Experimead #15",
     "stijl": "17 months whiskey BA with maple syrup",
     "procent": "15%",
     "special": "/",
-    "brouwer": "Mederie"
+    "brouwer": "Mederie (Zondag)"
   },
   {
     "naam": "Apple of my Eye",
     "stijl": "BA Spontaneous Cider",
     "procent": "6%",
     "special": "/",
-    "brouwer": "Mederie"
+    "brouwer": "Mederie (Zondag)"
   },
   {
     "naam": "Oh la la la",
     "stijl": "BA Spontaneous Bessen Cider",
     "procent": "8%",
     "special": "/",
-    "brouwer": "Mederie"
+    "brouwer": "Mederie (Zondag)"
   },
   {
     "naam": "Cuvee de Mortagnerie",
     "stijl": "BA Braggit (Bier - Mede Hybride)",
     "procent": "13,5%",
     "special": "/",
-    "brouwer": "Mederie"
+    "brouwer": "Mederie (Zondag)"
   }
 ]

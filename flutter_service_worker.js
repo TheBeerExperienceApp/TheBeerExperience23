@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "761f24dec9f9365459e6acbe8bbe64ec",
-"index.html": "7fa4f4bcd9d0cd209635eb7b066b3d8e",
-"/": "7fa4f4bcd9d0cd209635eb7b066b3d8e",
+"index.html": "a069ee3d1181e4717c126a3a7e3973af",
+"/": "a069ee3d1181e4717c126a3a7e3973af",
 "main.dart.js": "fbe9dc9cae6ed5e83ac33cbe2edfb0de",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -80,9 +80,9 @@ const RESOURCES = {
 "assets/assets/images/food/Chapter10.png": "fa7f5ba7ba731235faca752f4a9d81af",
 "assets/assets/images/welcome.png": "a7a0045d70a55425013d0ed94a92b66a",
 "assets/assets/images/Timetable%2520zaterdag.png": "d4d45243b21a09daca39c3304bdca743",
-"assets/assets/bieren.json": "088e3d544ce7a514e85052d9fcd7e981",
+"assets/assets/bieren.json": "290d8a6302f802493bf3e8699b1936e5",
 "assets/assets/food.json": "3ee5530c5483e136963b9990e929651a",
-"assets/assets/brouwers.json": "7d77d17f9696fa2c50dfecbc64216c51",
+"assets/assets/brouwers.json": "bb81d35508abdf60276cf56ced598f4f",
 "assets/assets/gerechten.json": "a97fec1fac35cad6babc73fd1a640a0a",
 "assets/assets/fonts/Roboto-Regular.ttf": "8a36205bd9b83e03af0591a004bc97f4",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
