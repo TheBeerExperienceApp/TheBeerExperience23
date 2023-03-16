@@ -85,7 +85,7 @@
   },
   {
     "naam": "Leo's Peat",
-    "stijl": "Imperial Stout Aged Peated Whisky",
+    "stijl": "Imperial Stout Aged Peated Whiskey",
     "procent": "11%",
     "special": "/",
     "brouwer": "Hoppug"
@@ -94,7 +94,7 @@
     "naam": "Kweepeer '22",
     "stijl": "Cider",
     "procent": "6,1%",
-    "special": "Exclusief",
+    "special": "glutenvrij",
     "brouwer": "Hoppug"
   },
   {
@@ -108,7 +108,7 @@
     "naam": "Trough The Grapevine 22",
     "stijl": "Cider",
     "procent": "6,7%",
-    "special": "Exclusieve",
+    "special": "glutenvrij",
     "brouwer": "Hoppug"
   },
   {
@@ -161,7 +161,7 @@
     "brouwer": "Kerkom"
   },
   {
-    "naam": "The 4 Horsemen - Death ",
+    "naam": "The 4 Horsemen - Death",
     "stijl": "Barleywine Tobasco BA",
     "procent": "14%",
     "special": "/",
@@ -182,7 +182,7 @@
     "brouwer": "d'Oude Maalderij"
   },
   {
-    "naam": "The 4 Horsemen - Conquest ",
+    "naam": "The 4 Horsemen - Conquest",
     "stijl": "Barleywine Armagnac BA",
     "procent": "14%",
     "special": "/",
@@ -252,7 +252,7 @@
     "brouwer": "Les Intenables"
   },
   {
-    "naam": "Pretty Mountains ",
+    "naam": "Pretty Mountains",
     "stijl": "DDH DIPA",
     "procent": "7,8%",
     "special": "/",
@@ -289,7 +289,7 @@
   {
     "naam": "Rik Raf Tripel ",
     "stijl": "Tripel",
-    "procent": "8%",
+    "procent": "8,5%",
     "special": "/",
     "brouwer": "BramBrass"
   },
@@ -309,7 +309,7 @@
   },
   {
     "naam": "Angel Heart",
-    "stijl": "Whisky/ Bourbon BA Stout",
+    "stijl": "Whiskey/ Bourbon BA Stout",
     "procent": "12%",
     "special": "/",
     "brouwer": "BramBrass"
@@ -338,7 +338,7 @@
   {
     "naam": "Þingvellir",
     "stijl": "Icelandic IPA",
-    "procent": "7,2",
+    "procent": "7,2%",
     "special": "/",
     "brouwer": "Puffin Brewery"
   },
@@ -392,7 +392,7 @@
     "brouwer": "Galea"
   },
   {
-    "naam": "Want some More Smores",
+    "naam": "Want Some More Smores",
     "stijl": "Imp Pastry Stout",
     "procent": "11,5%",
     "special": "/",
@@ -407,7 +407,7 @@
   },
   {
     "naam": "Berry & Bean",
-    "stijl": "Blond Cascare Sour Ale",
+    "stijl": "Blond Cascara Sour Ale",
     "procent": "6,5%",
     "special": "/",
     "brouwer": "Galea"
@@ -420,7 +420,7 @@
     "brouwer": "Galea"
   },
   {
-    "naam": "Black Pope Peru El Palto & Tahitian Vanilla Rum/Bourbon BA",
+    "naam": "Black Pope Peru El Palto & Tahitian Vanilla Rum/Bourbon BA (PRIMEUR)",
     "stijl": "Imp Coffee Stout",
     "procent": "12,5%",
     "special": "PRIMEUR",
@@ -561,8 +561,8 @@
   },
   {
     "naam": "Mystery beer",
-    "stijl": "",
-    "procent": "",
+    "stijl": "???",
+    "procent": "???",
     "special": "/",
     "brouwer": "Moersleutel"
   },
@@ -630,7 +630,7 @@
     "brouwer": "Basqueland (Hops 'n More)"
   },
   {
-    "naam": "Fugu ",
+    "naam": "Fugu",
     "stijl": "Premium Japanse Lager",
     "procent": "5%",
     "special": "/",
@@ -672,8 +672,8 @@
     "brouwer": "Basqueland (Hops 'n More)"
   },
   {
-    "naam": "Easy citra Haze",
-    "stijl": "SessionIPA",
+    "naam": "Easy Citra Haze",
+    "stijl": "Session IPA",
     "procent": "4,6%",
     "special": "/",
     "brouwer": "Didko"
@@ -686,7 +686,7 @@
     "brouwer": "Didko"
   },
   {
-    "naam": "Cherry poison BBA 2YO",
+    "naam": "Cherry Poison BBA 2YO",
     "stijl": "Cherry Imp Stout",
     "procent": "13%",
     "special": "/",
@@ -700,9 +700,9 @@
     "brouwer": "Didko"
   },
   {
-    "naam": "Memento Morri",
-    "stijl": "NETIPA",
-    "procent": "10%",
+    "naam": "Memento Mori",
+    "stijl": "Porter",
+    "procent": "8,4%%",
     "special": "/",
     "brouwer": "Didko"
   },
@@ -715,7 +715,7 @@
   },
   {
     "naam": "Black Attack",
-    "stijl": "Blackberrt Imp Stout",
+    "stijl": "Blackberry Imp Stout",
     "procent": "13,7%",
     "special": "/",
     "brouwer": "Didko"
@@ -749,7 +749,7 @@
     "brouwer": "Kromme Haring"
   },
   {
-    "naam": "Barbarian Fishing V15",
+    "naam": "Barbarian Fishing v15",
     "stijl": "NEDIPA",
     "procent": "8%",
     "special": "/",
@@ -763,7 +763,7 @@
     "brouwer": "Kromme Haring"
   },
   {
-    "naam": "Fugu ",
+    "naam": "Fugu",
     "stijl": "Saison met Yuzu",
     "procent": "6,5%",
     "special": "/",
@@ -834,7 +834,7 @@
   },
   {
     "naam": "Adelheid",
-    "stijl": "Oaked Clavados Barleywine",
+    "stijl": "Oaked Calvados Barleywine",
     "procent": "11,5%",
     "special": "/",
     "brouwer": "Hophemel"
@@ -910,10 +910,10 @@
     "brouwer": "Slaapmutske"
   },
   {
-    "naam": "Waltz#2",
-    "stijl": "Vienna Lager (PRIMEUR)",
+    "naam": "Waltz#2 (PRIMEUR)",
+    "stijl": "Vienna Lager",
     "procent": "4,9%",
-    "special": "/",
+    "special": "PRIMEUR",
     "brouwer": "Stroom"
   },
   {
@@ -1002,7 +1002,7 @@
   },
   {
     "naam": "Jambe-be-Bois",
-    "stijl": "Belgian IPA",
+    "stijl": "Hoppy Tripel",
     "procent": "8%",
     "special": "/",
     "brouwer": "De La Senne"
@@ -1058,7 +1058,7 @@
   },
   {
     "naam": "Artevelde Kriek",
-    "stijl": "Fruit",
+    "stijl": "Fruitbier",
     "procent": "3,6%",
     "special": "/",
     "brouwer": "Artevelde / Haeseveld"
@@ -1164,7 +1164,7 @@
   {
     "naam": "Jolly Poupée",
     "stijl": "Red Ale",
-    "procent": "6,671",
+    "procent": "6,671%",
     "special": "/",
     "brouwer": "Lupulus"
   },
@@ -1179,7 +1179,7 @@
     "naam": "Fructus",
     "stijl": "Fruitbier",
     "procent": "4,2%",
-    "special": "ZOET",
+    "special": "/",
     "brouwer": "Lupulus"
   },
   {
@@ -1260,15 +1260,15 @@
     "brouwer": "Folkingebrew"
   },
   {
-    "naam": "Darkest Hour (wit Cacao Nibs @ Vanilla",
-    "stijl": "Imp Stour",
+    "naam": "Darkest Hour (with Cacao Nibs & Vanilla)",
+    "stijl": "Imp Stout",
     "procent": "11%",
     "special": "/",
     "brouwer": "Folkingebrew"
   },
   {
     "naam": "Pinot Blanc 2022",
-    "stijl": "",
+    "stijl": "natuurwijn",
     "procent": "11%",
     "special": "/",
     "brouwer": "Drap (ZO)"
@@ -1282,14 +1282,14 @@
   },
   {
     "naam": "Gewurz Souvignier Gris 2022",
-    "stijl": "",
+    "stijl": "natuurwijn",
     "procent": "11,5%",
     "special": "/",
     "brouwer": "Drap (ZO)"
   },
   {
     "naam": "Muscaris 2021",
-    "stijl": "",
+    "stijl": "natuurwijn",
     "procent": "11,5%",
     "special": "/",
     "brouwer": "Drap (ZO)"
@@ -1303,100 +1303,198 @@
   },
   {
     "naam": "Dry Hop 2021",
-    "stijl": "",
-    "procent": "",
+    "stijl": "/",
+    "procent": "/",
     "special": "/",
     "brouwer": "Bofkont"
   },
   {
     "naam": "Bourbon Kriek 2020",
-    "stijl": "",
-    "procent": "",
+    "stijl": "/",
+    "procent": "/",
     "special": "/",
     "brouwer": "Bofkont"
   },
   {
     "naam": "Dancing In The Moonlight 2021",
-    "stijl": "",
-    "procent": "",
+    "stijl": "/",
+    "procent": "/",
     "special": "/",
     "brouwer": "Bofkont"
   },
   {
     "naam": "Muskaat 2020",
-    "stijl": "",
-    "procent": "",
+    "stijl": "/",
+    "procent": "/",
     "special": "/",
     "brouwer": "Bofkont"
   },
   {
     "naam": "Rabarber Kardemon 2021",
-    "stijl": "",
-    "procent": "",
+    "stijl": "/",
+    "procent": "/",
     "special": "/",
     "brouwer": "Bofkont"
   },
   {
     "naam": "Summer 22",
-    "stijl": "",
-    "procent": "",
+    "stijl": "/",
+    "procent": "/",
     "special": "/",
     "brouwer": "Bofkont"
   },
   {
     "naam": "Raspoetin 2021",
-    "stijl": "",
-    "procent": "",
+    "stijl": "/",
+    "procent": "/",
     "special": "/",
     "brouwer": "Bofkont"
   },
   {
     "naam": "Kallise Merlot Kriek 2020",
-    "stijl": "",
-    "procent": "",
+    "stijl": "/",
+    "procent": "/",
     "special": "/",
     "brouwer": "Bofkont"
   },
   {
     "naam": "From Canada With Love 2019",
-    "stijl": "",
-    "procent": "",
+    "stijl": "/",
+    "procent": "/",
     "special": "/",
     "brouwer": "Bofkont"
   },
   {
     "naam": "Captain Muscat 2020",
-    "stijl": "",
-    "procent": "",
+    "stijl": "/",
+    "procent": "/",
     "special": "/",
     "brouwer": "Bofkont"
   },
   {
-    "naam": "",
-    "stijl": "",
-    "procent": "",
+    "naam": "It's Just a p-Haze",
+    "stijl": "Kweeper cider",
+    "procent": "7%",
     "special": "/",
-    "brouwer": "Pellicle / Vermeersch (ZO)"
+    "brouwer": "Pellicle"
   },
   {
-    "naam": "",
-    "stijl": "",
-    "procent": "",
+    "naam": "Momentum",
+    "stijl": "Pruimencider",
+    "procent": "7%",
     "special": "/",
-    "brouwer": "Pellicle / Vermeersch (ZO)"
+    "brouwer": "Pellicle"
   },
   {
-    "naam": "",
-    "stijl": "",
-    "procent": "",
+    "naam": "Rosemary Fields Forever",
+    "stijl": "Kriekenlambiek met Rozemarijn",
+    "procent": "6%",
+    "special": "/",
+    "brouwer": "Pellicle"
+  },
+  {
+    "naam": "Mirabelge",
+    "stijl": "Lambik met Mirabelle",
+    "procent": "6%",
+    "special": "/",
+    "brouwer": "Pellicle"
+  },
+  {
+    "naam": "Marie 2022",
+    "stijl": "Lambic Fruit",
+    "procent": "6%",
+    "special": "/",
+    "brouwer": "Vermeersch"
+  },
+  {
+    "naam": "Marleen 2022",
+    "stijl": "Lambic Fruit",
+    "procent": "6%",
+    "special": "/",
+    "brouwer": "Vermeersch"
+  },
+  {
+    "naam": "Paul 2022",
+    "stijl": "Lambic Geuze",
+    "procent": "6%",
+    "special": "/",
+    "brouwer": "Vermeersch"
+  },
+  {
+    "naam": "Lieve 2022",
+    "stijl": "Lambic Fruit",
+    "procent": "6%",
+    "special": "/",
+    "brouwer": "Vermeersch"
+  },
+  {
+    "naam": "Jan 2022",
+    "stijl": "Lambic Fruit",
+    "procent": "6%",
+    "special": "/",
+    "brouwer": "Vermeersch"
+  },
+  {
+    "naam": "Rrrrraise the Sails",
+    "stijl": "Westcoast IPA",
+    "procent": "6,6%",
     "special": "/",
     "brouwer": "Uncharted"
   },
   {
-    "naam": "",
-    "stijl": "",
-    "procent": "",
+    "naam": "Easy Does It",
+    "stijl": "DDH IPA",
+    "procent": "6%",
     "special": "/",
     "brouwer": "Uncharted"
+  },
+  {
+    "naam": "I Am Not Human",
+    "stijl": "Cold IPA",
+    "procent": "5,8%",
+    "special": "/",
+    "brouwer": "Uncharted"
+  },
+  {
+    "naam": "Whisper",
+    "stijl": "American Stout",
+    "procent": "8,7%",
+    "special": "/",
+    "brouwer": "Uncharted"
+  },
+  {
+    "naam": "Black River",
+    "stijl": "Red Wine BA zwarte bessen mede",
+    "procent": "15%",
+    "special": "/",
+    "brouwer": "Mederie"
+  },
+  {
+    "naam": "Experimead #15",
+    "stijl": "17 months whiskey BA with maple syrup",
+    "procent": "15%",
+    "special": "/",
+    "brouwer": "Mederie"
+  },
+  {
+    "naam": "Apple of my Eye",
+    "stijl": "BA Spontaneous Cider",
+    "procent": "6%",
+    "special": "/",
+    "brouwer": "Mederie"
+  },
+  {
+    "naam": "Oh la la la",
+    "stijl": "BA Spontaneous Bessen Cider",
+    "procent": "8%",
+    "special": "/",
+    "brouwer": "Mederie"
+  },
+  {
+    "naam": "Cuvee de Mortagnerie",
+    "stijl": "BA Braggit (Bier - Mede Hybride)",
+    "procent": "13,5%",
+    "special": "/",
+    "brouwer": "Mederie"
   }
 ]
