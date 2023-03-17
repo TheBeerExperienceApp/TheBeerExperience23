@@ -1,32 +1,32 @@
 [
-    {
-      "naam": "Jungle Fever",
-      "stijl": "BA Barley Wine",
-      "procent": "12,6%",
-      "special": "/",
-      "brouwer": "Diaz"
-    },
-    {
-      "naam": "Triumph",
-      "stijl": "Vanilla Imperial Stout",
-      "procent": "10,5%",
-      "special": "/",
-      "brouwer": "Diaz"
-    },
-    {
-      "naam": "Oh Boy",
-      "stijl": "Vanilla Latte Imperial Stout",
-      "procent": "10,7%",
-      "special": "/",
-      "brouwer": "Diaz"
-    },
-    {
-      "naam": "Hypnotize",
-      "stijl": "DDH Cold IPA",
-      "procent": "6,6%",
-      "special": "/",
-      "brouwer": "Diaz"
-    },
+  {
+    "naam": "Jungle Fever",
+    "stijl": "BA Barley Wine",
+    "procent": "12,6%",
+    "special": "/",
+    "brouwer": "Diaz"
+  },
+  {
+    "naam": "Triumph",
+    "stijl": "Vanilla Imperial Stout",
+    "procent": "10,5%",
+    "special": "/",
+    "brouwer": "Diaz"
+  },
+  {
+    "naam": "Oh Boy",
+    "stijl": "Vanilla Latte Imperial Stout",
+    "procent": "10,7%",
+    "special": "/",
+    "brouwer": "Diaz"
+  },
+  {
+    "naam": "Hypnotize",
+    "stijl": "DDH Cold IPA",
+    "procent": "6,6%",
+    "special": "/",
+    "brouwer": "Diaz"
+  },
   {
     "naam": "Ouwen Duiker",
     "stijl": "Pale Ale",
