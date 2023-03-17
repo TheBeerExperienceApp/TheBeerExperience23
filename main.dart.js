@@ -66674,7 +66674,7 @@ A.kJ.prototype={
 af(){return new A.My(B.j)}}
 A.My.prototype={
 G(a){var s=null,r=t.w
-return A.n_(new A.fT(A.k7(s,s,s,s,s),s),A.xn(new A.ye("https://www.festivalradar.io/TBE",B.kl,a.U(r).f.a.a,a.U(r).f.a.b-200,s)),new A.i1(2,s),s,!1)}}
+return A.n_(new A.fT(A.k7(s,s,s,s,s),s),A.xn(new A.ye("https://www.festivalradar.io/TBE",B.kl,a.U(r).f.a.a,a.U(r).f.a.b-100,s)),new A.i1(2,s),s,!1)}}
 A.ne.prototype={
 G(a){var s=null
 return A.n_(new A.fT(A.k7(s,s,s,s,s),s),A.xn(new A.bB(B.fk,A.bF(s,A.fR(A.a([new A.bB(B.zm,new A.dH(B.eR,s,s,A.ca("Sponsors",A.cF(s,s,B.bs,s,s,s,s,s,s,s,s,35,s,s,B.aj,s,s,!0,s,2,s,s,s,s,s,s),s,s),s),s),A.j8("assets/images/sponsors/sponsors1.PNG",s,s),A.j8("assets/images/sponsors/sponsors2.PNG",s,s),A.j8("assets/images/sponsors/sponsors3.PNG",s,s),A.j8("assets/images/sponsors/sponsors4.PNG",s,s)],t.p),B.X,B.aq,B.a1),B.k,s,s,s,s,s,s,s,s,s,s),s)),new A.i1(0,s),new A.kK(s),!1)}}
